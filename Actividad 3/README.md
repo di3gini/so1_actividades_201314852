@@ -1,6 +1,6 @@
 <center> 
 
-## Enunciado Actividad 3
+## Actividad 3
 </center>
 
 Detalles
